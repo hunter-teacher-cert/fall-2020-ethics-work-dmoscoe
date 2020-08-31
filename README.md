@@ -1,6 +1,6 @@
-## last name:
-## first name:
-## github username:
+## last name: Moscoe
+## first name: Daniel
+## github username: dmoscoe
 ---------------------
 ### general workflow:
 0. Fill out the top of this form, commit and push it back to GitHub.
