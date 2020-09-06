@@ -22,7 +22,10 @@ def factorial(n):
 
 
 def fib(n):
-    return 1
+    if n == 1 or n == 2:
+        return 1
+    else:
+        return 
 
 print("Good News Everyone!")
 print(f"1! = {factorial(1)}" ) #notice how f, {} are used.
