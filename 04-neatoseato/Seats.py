@@ -18,7 +18,7 @@ class Seat(object):
         self.value = value
 
 def SeatAssigner(passengers, seats):
-"""Assumes passengers is a list of Passenger objects. Assumes seats is a list of Seat objects. Returns a dict that matches Passengers to Seats s.t. the highest priority Passengers get the most valuable Seats."""
+    """Assumes passengers is a list of Passenger objects. Assumes seats is a list of Seat objects. Returns a dict that matches Passengers to Seats s.t. the highest priority Passengers get the most valuable Seats."""
 
     assignments = {}
     numberOfPassengers = len(passengers)
