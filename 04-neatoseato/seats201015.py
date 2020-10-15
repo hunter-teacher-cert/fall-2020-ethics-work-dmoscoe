@@ -5,6 +5,17 @@ Created on Thu Oct 15 16:02:36 2020
 @author: dmosc
 """
 
+###OVERALL PLAN###
+
+#Make a plane, which is a 2D array of seats. (see l 312; make_plane, l 58)
+#Create and seat some regular passengers (see l 316; RegularPassengers, l 133)
+#Create list of available seats for econ customers, with seat values (see l 319; available_seats, l 120)
+#Create some economy customers(see l 322; EconomyPassengers, l 229)
+#Rank economy passengers and place them in groups (see l 325; GroupClassification, 289)
+#Seat the groups (see l 339-342; Assigners, ll 167-225)
+#print the plane (see l 345; 63)
+
+
 # Izagma's plus
 import random
 
