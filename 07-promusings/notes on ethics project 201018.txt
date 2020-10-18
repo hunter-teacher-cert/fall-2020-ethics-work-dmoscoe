@@ -1,0 +1,11 @@
+1. Accessibility. "Access to information and communications technologies, including the Web, is defined as a basic human right in the UN Convention on the Rights of Persons with Disabilities." Making the web, and information technology in general, more accessible, could help improve the lives of a very large number of people (>1 billion).
+
+"Everyone has a better user experience with an improved layout and design." Most of us will experience some impairment of our ability to access information technology at some point in our lives, either through injury, illness, or old age. 
+
+Content should be perceivable, computers should be operable, content should be understandable, and it should be robust to being accessed by a variety of assistive technologies.
+
+I'm more interested in building my Python skills than using HTML, and I'm especially interested in doing some data analysis. Could I use Python to do some data analysis around accessible websites / info tech?
+
+2. US Digital Service / public digital infrastructure. The Internet itself is in its way a product of this! GPS, etc. What sorts of public digital infrastructure would be most beneficial? How do we decide what technology should be developed by the public vs private sector? Again, I'd like to find a way to primarily use Python / data analysis to approach this.
+
+3. Banking / microfinance. How can technology bring access to the formal economy to people who have lacked access to banking? (http://worldpolicy.org/2016/05/03/how-sms-is-transforming-lives-in-africa/) Python, data analysis.
